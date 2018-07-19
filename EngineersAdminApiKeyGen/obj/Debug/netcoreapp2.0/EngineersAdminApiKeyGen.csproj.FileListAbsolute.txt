@@ -1,0 +1,11 @@
+C:\workspaces\EngineersAdminApiKeyGen\EngineersAdminApiKeyGen\bin\Debug\netcoreapp2.0\EngineersAdminApiKeyGen.deps.json
+C:\workspaces\EngineersAdminApiKeyGen\EngineersAdminApiKeyGen\bin\Debug\netcoreapp2.0\EngineersAdminApiKeyGen.runtimeconfig.json
+C:\workspaces\EngineersAdminApiKeyGen\EngineersAdminApiKeyGen\bin\Debug\netcoreapp2.0\EngineersAdminApiKeyGen.runtimeconfig.dev.json
+C:\workspaces\EngineersAdminApiKeyGen\EngineersAdminApiKeyGen\bin\Debug\netcoreapp2.0\EngineersAdminApiKeyGen.dll
+C:\workspaces\EngineersAdminApiKeyGen\EngineersAdminApiKeyGen\bin\Debug\netcoreapp2.0\EngineersAdminApiKeyGen.pdb
+C:\workspaces\EngineersAdminApiKeyGen\EngineersAdminApiKeyGen\obj\Debug\netcoreapp2.0\EngineersAdminApiKeyGen.csprojAssemblyReference.cache
+C:\workspaces\EngineersAdminApiKeyGen\EngineersAdminApiKeyGen\obj\Debug\netcoreapp2.0\EngineersAdminApiKeyGen.csproj.CoreCompileInputs.cache
+C:\workspaces\EngineersAdminApiKeyGen\EngineersAdminApiKeyGen\obj\Debug\netcoreapp2.0\EngineersAdminApiKeyGen.AssemblyInfoInputs.cache
+C:\workspaces\EngineersAdminApiKeyGen\EngineersAdminApiKeyGen\obj\Debug\netcoreapp2.0\EngineersAdminApiKeyGen.AssemblyInfo.cs
+C:\workspaces\EngineersAdminApiKeyGen\EngineersAdminApiKeyGen\obj\Debug\netcoreapp2.0\EngineersAdminApiKeyGen.dll
+C:\workspaces\EngineersAdminApiKeyGen\EngineersAdminApiKeyGen\obj\Debug\netcoreapp2.0\EngineersAdminApiKeyGen.pdb
